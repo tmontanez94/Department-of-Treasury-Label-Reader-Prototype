@@ -83,7 +83,6 @@ The prototype is designed around a compliance-agent workflow:
 9. Completed labels move out of the active queue into the appropriate folder.
 
 
-
 ## Why Template Mode Was Added
 
 A major limitation of OCR is that real alcohol labels are not formatted like simple forms. Labels can include curved text, decorative fonts, artwork, low contrast, glare, or text placed in unusual locations.
@@ -117,7 +116,7 @@ One example that helped shape my thinking is the Defense Travel System. DTS has 
 * Separate folders for uploaded, verified, rejected, unverified, and template files
 * Realistic sample alcohol label images
 * Human review notice for final compliance determination
-* 
+  
 
 ## Folder Structure
 
@@ -170,7 +169,7 @@ This folder stores saved template data from Template Training Mode.
 * Final compliance determinations remain the responsibility of authorized TTB personnel.
 * This prototype does not integrate directly with COLA or other Treasury systems.
 * This prototype does not store audit logs at the level required for a production federal system.
-* 
+  
 
 ## Assumptions
 

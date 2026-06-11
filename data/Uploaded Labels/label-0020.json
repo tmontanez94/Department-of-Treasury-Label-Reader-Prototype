@@ -1,0 +1,25 @@
+{
+  "id": "label-0020",
+  "filename": "ImperfectLabel_BLACKOAKBRANDY.png",
+  "image_url": "/uploaded/label-0020_ImperfectLabel_BLACKOAKBRANDY.png",
+  "extracted_text": "Apple Brandy\nOrchard Reserve\n42% Alc-Nol: (84 Proof)\n750 mL\nProduced by Black Oak Cellars, Yakima, WA\nGOVERNMENT WARNING: See back label for full warning statement_",
+  "ocr_confidence": 77.5,
+  "extracted_fields": {
+    "brand_name": "y Orchard Reserve 42% Alc-Nol: (84 Proof) 750 mL Produced by Black Oak Cellars, Yakima, WA",
+    "class_type": "",
+    "alcohol_content": "84 Proof",
+    "net_contents": "750 mL",
+    "producer_address": "Produced by Black Oak Cellars, Yakima, WA",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: See back label for full warning statement_"
+  },
+  "validation_score": 83,
+  "status": "COMPLIANCE AGENT REVIEW REQUIRED",
+  "compliance_agent_review_required": true,
+  "missing_required_fields": [
+    "Class/Type"
+  ],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

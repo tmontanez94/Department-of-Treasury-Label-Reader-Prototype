@@ -1,0 +1,25 @@
+{
+  "id": "label-0014",
+  "filename": "ImperfectLabel_PRAIRIEFIELDVODKA.png",
+  "image_url": "/uploaded/label-0014_ImperfectLabel_PRAIRIEFIELDVODKA.png",
+  "extracted_text": "PRAIRIE FIELD VODKA\nCorn Vodka\nPlains Select\n40% Alc./Vol. (80 Proof)\n750 mL\nDistilled by Prairie Field Distillery, Omaha, NE\nGOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems.",
+  "ocr_confidence": 68.0,
+  "extracted_fields": {
+    "brand_name": "PRAIRIE FIELD VODKA",
+    "class_type": "Corn Vodka",
+    "alcohol_content": "40% Alc./Vol. (80 Proof)",
+    "net_contents": "750 mL",
+    "producer_address": "Distilled by Prairie Field Distillery, Omaha, NE",
+    "country_of_origin": "",
+    "government_warning": ""
+  },
+  "validation_score": 83,
+  "status": "COMPLIANCE AGENT REVIEW REQUIRED",
+  "compliance_agent_review_required": true,
+  "missing_required_fields": [
+    "Government Health Warning"
+  ],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

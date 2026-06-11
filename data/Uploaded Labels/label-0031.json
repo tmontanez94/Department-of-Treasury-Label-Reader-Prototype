@@ -1,0 +1,25 @@
+{
+  "id": "label-0031",
+  "filename": "PerfectLabel_GOLDCOASTBRANDY.png",
+  "image_url": "/uploaded/label-0031_PerfectLabel_GOLDCOASTBRANDY.png",
+  "extracted_text": "California Brandy\nCentral Valley\n40% Alc-Nol. (80 Proof)\n750 mL\nProduced by Gold Coast Cellars, Fresno, CA\nGOVEI\nMENT WARNING: See back label for full warning Statement_\ncOA S T\nRPrrZa_\n8",
+  "ocr_confidence": 61.6,
+  "extracted_fields": {
+    "brand_name": "y Central Valley 40% Alc-Nol. (80 Proof) 750 mL Produced by Gold Coast Cellars, Fresno, CA GOVEI MENT",
+    "class_type": "",
+    "alcohol_content": "80 Proof",
+    "net_contents": "750 mL",
+    "producer_address": "Produced by Gold Coast Cellars, Fresno, CA",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: See back label for full warning Statement_ cOA S T RPrrZa_ 8"
+  },
+  "validation_score": 83,
+  "status": "COMPLIANCE AGENT REVIEW REQUIRED",
+  "compliance_agent_review_required": true,
+  "missing_required_fields": [
+    "Class/Type"
+  ],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

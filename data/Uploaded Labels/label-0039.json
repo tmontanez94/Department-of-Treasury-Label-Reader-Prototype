@@ -1,0 +1,23 @@
+{
+  "id": "label-0039",
+  "filename": "PerfectLabel_SILVERMAPLESPIRITS.png",
+  "image_url": "/uploaded/label-0039_PerfectLabel_SILVERMAPLESPIRITS.png",
+  "extracted_text": "SILVER MAPLE SPIRITS\nCanadian Whisky\nNorthern Reserve\n43% Alc-Nol. (86 Proof)\n750 mL\nImported by Silver Maple Spirits, Buffalo, NY\nGOVERNMENT WARNING: See back label for full warning statement_",
+  "ocr_confidence": 85.7,
+  "extracted_fields": {
+    "brand_name": "Canadian Whisky",
+    "class_type": "Northern Reserve",
+    "alcohol_content": "86 Proof",
+    "net_contents": "750 mL",
+    "producer_address": "SILVER MAPLE SPIRITS",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: See back label for full warning statement_"
+  },
+  "validation_score": 100,
+  "status": "PASS",
+  "compliance_agent_review_required": false,
+  "missing_required_fields": [],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

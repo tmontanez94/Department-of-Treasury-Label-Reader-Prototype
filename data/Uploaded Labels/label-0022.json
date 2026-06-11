@@ -1,0 +1,23 @@
+{
+  "id": "label-0022",
+  "filename": "ImperfectLabel_COPPERKETTLE.png",
+  "image_url": "/uploaded/label-0022_ImperfectLabel_COPPERKETTLE.png",
+  "extracted_text": "Small Batch Bourbon\nKentucky Batch\n48% Alc.Nol. (96 Proof)\n750 mL\nDistilled by Copper Kettle Distillery Lexington, KY\nGOVERNMENT WARNING: See back abef for ful warning statement_",
+  "ocr_confidence": 78.2,
+  "extracted_fields": {
+    "brand_name": "Small Batch Bourbon",
+    "class_type": "Kentucky Batch",
+    "alcohol_content": "96 Proof",
+    "net_contents": "750 mL",
+    "producer_address": "Copper Kettle Distillery Lexington, KY",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: See back abef for ful warning statement_"
+  },
+  "validation_score": 100,
+  "status": "PASS",
+  "compliance_agent_review_required": false,
+  "missing_required_fields": [],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

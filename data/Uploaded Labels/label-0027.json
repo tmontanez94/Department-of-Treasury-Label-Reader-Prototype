@@ -1,0 +1,28 @@
+{
+  "id": "label-0027",
+  "filename": "ImperfectLabel_RIVERSTONEBOURBON.png",
+  "image_url": "/uploaded/label-0027_ImperfectLabel_RIVERSTONEBOURBON.png",
+  "extracted_text": "(98\nby\nKY\nbelor\nRIVERSTONE\nBOURBON\nStraight\nBourbon\nWhiskey\nRiver\nBarrel\n49%\nAlc NVol.\nProol)\nDisulled\nRiverstone\nDistilling.\nFrankiort;\nOOEESTTE\nMaming\nFtemant",
+  "ocr_confidence": 68.9,
+  "extracted_fields": {
+    "brand_name": "(98",
+    "class_type": "by",
+    "alcohol_content": "",
+    "net_contents": "",
+    "producer_address": "",
+    "country_of_origin": "",
+    "government_warning": ""
+  },
+  "validation_score": 33,
+  "status": "COMPLIANCE AGENT REVIEW REQUIRED",
+  "compliance_agent_review_required": true,
+  "missing_required_fields": [
+    "Alcohol Content",
+    "Net Contents",
+    "Producer/Address",
+    "Government Health Warning"
+  ],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

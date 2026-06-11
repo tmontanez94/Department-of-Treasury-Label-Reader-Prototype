@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Department of Treasury Label Reader Prototype</title><link rel="stylesheet" href="/static/styles.css" /></head>
+<body>
+<header class="hero"><div><p class="eyebrow">Department of Treasury Label Reader Prototype</p><h1>Department of Treasury Label Reader Prototype</h1><p class="subtitle">Start the day with a ready label queue. Agents can review existing labels immediately while new uploaded labels are processed and added to the queue. Template Training Mode lets agents teach the system recurring label layouts so future submissions require less manual review.</p></div><div class="creator">Created by Tomas Montanez</div></header>
+<main class="layout">
+<aside class="left-panel">
+<section class="card upload-card"><h2>Upload New Labels</h2><p class="muted">Add new labels to the queue while continuing to work existing labels.</p><input id="fileInput" type="file" accept="image/*" multiple /><button id="analyzeButton">Analyze and Add to Queue</button><div id="statusBox" class="status-box hidden"></div></section>
+<section class="card queue-card"><h2>Pending Review Queue</h2><div id="queueStats" class="queue-stats"></div><div id="queueList"></div></section>
+</aside>
+<section class="right-panel"><div id="detailCard" class="card detail-card"><h2>Selected Label Review</h2><p class="muted">Select a label from the queue to view extracted fields, OCR text, source image, and template training options.</p><div id="detailContent"></div></div></section>
+</main><footer>Prototype only. Final compliance determinations require authorized human review.</footer><script src="/static/script.js"></script>
+</body></html>

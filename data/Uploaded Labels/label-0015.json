@@ -1,0 +1,25 @@
+{
+  "id": "label-0015",
+  "filename": "ImperfectLabel_NORTHSTARGIN.png",
+  "image_url": "/uploaded/label-0015_ImperfectLabel_NORTHSTARGIN.png",
+  "extracted_text": "NORTH STAR GIN\nAmerican Dry Gin\nNorthern Lights\n44% Alc./Vol. (88 Proof)\n750 mL\nDistilled by North Star Spirits, Minneapolis, MN\nGOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems.",
+  "ocr_confidence": 68.0,
+  "extracted_fields": {
+    "brand_name": "NORTH STAR GIN",
+    "class_type": "American Dry Gin",
+    "alcohol_content": "",
+    "net_contents": "750 mL",
+    "producer_address": "Distilled by North Star Spirits, Minneapolis, MN",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+  },
+  "validation_score": 83,
+  "status": "COMPLIANCE AGENT REVIEW REQUIRED",
+  "compliance_agent_review_required": true,
+  "missing_required_fields": [
+    "Alcohol Content"
+  ],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

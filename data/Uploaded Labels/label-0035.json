@@ -1,0 +1,23 @@
+{
+  "id": "label-0035",
+  "filename": "PerfectLabel_LIGHTHOUSECELLARS.png",
+  "image_url": "/uploaded/label-0035_PerfectLabel_LIGHTHOUSECELLARS.png",
+  "extracted_text": "LIGHTHOUSE CELLARS\nGuiding White Chardonnay\nHudson River Region\nAlc . 13.5% ByVol.\n750 mL\nProduced and bottled by Lighthouse Cellars\nHudson River Region\nGOVERNMENT WARNING: See back labef for ful warning statement",
+  "ocr_confidence": 85.0,
+  "extracted_fields": {
+    "brand_name": "LIGHTHOUSE CELLARS",
+    "class_type": "Guiding White Chardonnay",
+    "alcohol_content": "Alc. 13.5% ByVol.",
+    "net_contents": "750 mL",
+    "producer_address": "Produced and bottled by Lighthouse Cellars, Hudson River Region",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+  },
+  "validation_score": 100,
+  "status": "PASS",
+  "compliance_agent_review_required": false,
+  "missing_required_fields": [],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "LIGHTHOUSE CELLARS Template",
+  "template_confidence": 98
+}

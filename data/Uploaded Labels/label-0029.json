@@ -1,0 +1,23 @@
+{
+  "id": "label-0029",
+  "filename": "ImperfectLabel_VODKAUNITED.png",
+  "image_url": "/uploaded/label-0029_ImperfectLabel_VODKAUNITED.png",
+  "extracted_text": "VODKA UNITED\nPremium Vodka\nUnited Spirits Reserve\n40% Alc-Nol: (80 Proof)\n1 L\nBottled by United Spirits Company; Chicago, IL",
+  "ocr_confidence": 84.3,
+  "extracted_fields": {
+    "brand_name": "VODKA UNITED",
+    "class_type": "Premium Vodka",
+    "alcohol_content": "40% Alc./Vol. (80 Proof)",
+    "net_contents": "1 L",
+    "producer_address": "Bottled by United Spirits Company, Chicago, IL",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+  },
+  "validation_score": 100,
+  "status": "PASS",
+  "compliance_agent_review_required": false,
+  "missing_required_fields": [],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "VODKA UNITED Template",
+  "template_confidence": 98
+}

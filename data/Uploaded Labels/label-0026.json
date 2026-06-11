@@ -1,0 +1,26 @@
+{
+  "id": "label-0026",
+  "filename": "ImperfectLabel_PRAIRIEFIELDVODKA.png",
+  "image_url": "/uploaded/label-0026_ImperfectLabel_PRAIRIEFIELDVODKA.png",
+  "extracted_text": "PRAIRIE FIELD VODKA\nCorn\nPlains Select\n750\nOmaha, NE\nField Distillery\nDistilled by\nwarning statement:\nWARNING: See back label\nGOVERNMENT\nVodka\nmL\nPrairie\nfull\nIor -",
+  "ocr_confidence": 90.9,
+  "extracted_fields": {
+    "brand_name": "PRAIRIE FIELD VODKA",
+    "class_type": "Corn",
+    "alcohol_content": "",
+    "net_contents": "",
+    "producer_address": "statement:",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: statement: WARNING: See back label GOVERNMENT Vodka mL Prairie full Ior -"
+  },
+  "validation_score": 67,
+  "status": "COMPLIANCE AGENT REVIEW REQUIRED",
+  "compliance_agent_review_required": true,
+  "missing_required_fields": [
+    "Alcohol Content",
+    "Net Contents"
+  ],
+  "human_review_note": "Human review required: This prototype extracts and checks required label text, but final compliance review is required",
+  "template_used": "",
+  "template_confidence": 0
+}

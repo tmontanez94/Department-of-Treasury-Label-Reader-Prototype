@@ -84,6 +84,9 @@ class TemplateRequest(BaseModel):
     producer_address: str = ""
     government_warning: str = ""
 
+def run_ocr(contents: bytes, filename: str):
+    return "", 0
+
 def safe_name(filename: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]", "_", Path(filename).name)
 

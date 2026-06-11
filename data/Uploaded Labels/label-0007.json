@@ -1,0 +1,23 @@
+{
+  "id": "label-0007",
+  "filename": "PerfectLabel_LAKEHOUSELAGER.png",
+  "image_url": "/uploaded/label-0007_PerfectLabel_LAKEHOUSELAGER.png",
+  "extracted_text": "LAKEHOUSE LAGER\nAmerican Lager\nGreat Lakes Series\n5% ABV\n12 FL. OZ.\nBrewed by Lakehouse Brewing Company, Milwaukee, WI\nGOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems.",
+  "ocr_confidence": 92.0,
+  "extracted_fields": {
+    "brand_name": "LAKEHOUSE LAGER",
+    "class_type": "American Lager",
+    "alcohol_content": "5% ABV",
+    "net_contents": "12 FL. OZ.",
+    "producer_address": "Brewed by Lakehouse Brewing Company, Milwaukee, WI",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+  },
+  "validation_score": 100,
+  "status": "AUTO-VERIFIED",
+  "compliance_agent_review_required": false,
+  "missing_required_fields": [],
+  "human_review_note": "Human review required: This prototype extracts and validates required label information. Final compliance determination remains the responsibility of the reviewing TTB agent.",
+  "template_used": "",
+  "template_confidence": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "label-0020",
+  "filename": "ImperfectLabel_BLACKOAKBRANDY.png",
+  "image_url": "/uploaded/label-0020_ImperfectLabel_BLACKOAKBRANDY.png",
+  "extracted_text": "BLACK OAK BRANDY\nApple Brandy\nOrchard Reserve\n42% Alc./Vol. (84 Proof)\n750 mL\nProduced by Black Oak Cellars, Yakima, WA\nGOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems.",
+  "ocr_confidence": 68.0,
+  "extracted_fields": {
+    "brand_name": "BLACK OAK BRANDY",
+    "class_type": "Apple Brandy",
+    "alcohol_content": "42% Alc./Vol. (84 Proof)",
+    "net_contents": "",
+    "producer_address": "",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+  },
+  "validation_score": 67,
+  "status": "COMPLIANCE AGENT REVIEW REQUIRED",
+  "compliance_agent_review_required": true,
+  "missing_required_fields": [
+    "Net Contents",
+    "Producer/Address"
+  ],
+  "human_review_note": "Human review required: This prototype extracts and validates required label information. Final compliance determination remains the responsibility of the reviewing TTB agent.",
+  "template_used": "",
+  "template_confidence": 0
+}

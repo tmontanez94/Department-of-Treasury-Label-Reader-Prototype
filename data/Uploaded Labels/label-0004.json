@@ -1,0 +1,23 @@
+{
+  "id": "label-0004",
+  "filename": "PerfectLabel_BLUEHARBORRUM.png",
+  "image_url": "/uploaded/label-0004_PerfectLabel_BLUEHARBORRUM.png",
+  "extracted_text": "BLUE HARBOR RUM\nCaribbean White Rum\nCaribbean Selection\n42% Alc./Vol. (84 Proof)\n700 mL\nImported and bottled by Blue Harbor Spirits, Miami, FL\nGOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems.",
+  "ocr_confidence": 92.0,
+  "extracted_fields": {
+    "brand_name": "BLUE HARBOR RUM",
+    "class_type": "Caribbean White Rum",
+    "alcohol_content": "42% Alc./Vol. (84 Proof)",
+    "net_contents": "700 mL",
+    "producer_address": "Imported and bottled by Blue Harbor Spirits, Miami, FL",
+    "country_of_origin": "",
+    "government_warning": "GOVERNMENT WARNING: According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+  },
+  "validation_score": 100,
+  "status": "AUTO-VERIFIED",
+  "compliance_agent_review_required": false,
+  "missing_required_fields": [],
+  "human_review_note": "Human review required: This prototype extracts and validates required label information. Final compliance determination remains the responsibility of the reviewing TTB agent.",
+  "template_used": "",
+  "template_confidence": 0
+}
